@@ -1,0 +1,29 @@
+_repo: A-Rose-of-a-Hundred-Leaves--A-Love-Story_33599
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33599-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barr, Amelia E.
+    alias: Barr, Amelia Edith Huddleston
+    birthdate: 1831
+    deathdate: 1919
+    gutenberg_agent_id: '2199'
+    url: http://www.gutenberg.org/2009/agents/2199
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edith_Huddleston_Barr
+description: ''
+gutenberg_issued: '2010-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: 'A Rose of a Hundred Leaves: A Love Story'
+url: http://www.gutenberg.org/ebooks/33599
